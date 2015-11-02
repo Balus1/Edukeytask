@@ -1,0 +1,19 @@
+body {
+    background-color: #ecf0f1;
+}
+
+.textarea-list {
+    width: 300px;
+}
+
+.textarea-element {
+    cursor: pointer;
+    padding: 10px;
+    list-style: none;
+    margin: 5px;
+    background-color: #40d47e;
+}
+
+.textarea-content {
+    width: 80%;
+}
